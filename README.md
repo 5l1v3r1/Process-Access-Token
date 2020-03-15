@@ -1,2 +1,2 @@
 # Process-Access-Token
-Opening a process access token 
+Getting a handle to a process access token 
